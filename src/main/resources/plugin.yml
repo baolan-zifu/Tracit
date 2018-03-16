@@ -1,0 +1,6 @@
+name: Tracit
+version: ${project.version}
+main: cat.nyaa.tracit.Tracit
+authors: [NyaaCat]
+description: Track It - Simple item tracking management tool.
+website: https://github.com/NyaaCat/Tracit

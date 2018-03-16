@@ -1,0 +1,17 @@
+update:
+  enable: true
+  item: true
+  name: true
+  lore: true
+  enchant: true
+  attr: true
+database: items.db
+check: NAME_LORE
+# available value for `check`
+#- NAME
+#- FIRST_LORE
+#- NAME_LORE
+#- EXACT
+items_per_page: 10
+import_mode: false
+ignore_rpgitem: true
